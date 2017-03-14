@@ -342,7 +342,7 @@
         <file alias="swap_calls.svg">communication/swap_calls.svg</file>
         <file alias="textsms.svg">communication/textsms.svg</file>
         <file alias="voicemail.svg">communication/voicemail.svg</file>
-        <file alias="vpn_key.svg">communication/vpn_key.svg"</file>
+        <file alias="vpn_key.svg">communication/vpn_key.svg</file>
     </qresource>
     <qresource prefix="/content">
         <file alias="add_box.svg">content/add_box.svg</file>
@@ -587,8 +587,8 @@
         <file alias="memory.svg">hardware/memory.svg</file>
         <file alias="mouse.svg">hardware/mouse.svg</file>
         <file alias="phone_android.svg">hardware/phone_android.svg</file>
-        <file alias="phonelink_off.svg">hardware/phone_iphone.svg</file>
-        <file alias="phonelink_off.svg">hardware/.svg</file>
+        <file alias="phone_iphone.svg">hardware/phone_iphone.svg</file>
+        <file alias="phonelink_off.svg">hardware/phonelink_off.svg</file>
         <file alias="phonelink.svg">hardware/phonelink.svg</file>
         <file alias="power_input.svg">hardware/power_input.svg</file>
         <file alias="router.svg">hardware/router.svg</file>
@@ -797,7 +797,7 @@
         <file alias="local_laundry_service.svg">maps/local_laundry_service.svg</file>
         <file alias="local_library.svg">maps/local_library.svg</file>
         <file alias="local_mall.svg">maps/local_mall.svg</file>
-        <file alias="local_offer.svg">maps/local_movies.svg</file>
+        <file alias="local_movies.svg">maps/local_movies.svg</file>
         <file alias="local_offer.svg">maps/local_offer.svg</file>
         <file alias="local_parking.svg">maps/local_parking.svg</file>
         <file alias="local_pharmacy.svg">maps/local_pharmacy.svg</file>
